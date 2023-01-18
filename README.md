@@ -47,4 +47,4 @@ The objective is to create a flow of Extraction, Transform and Load.
 	
 	
 	
-## **_Be careful this flow can generation costs_;**
+## **_Be careful this flow can generate costs_;**
