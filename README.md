@@ -11,7 +11,9 @@ The objective is to create a flow of Extraction, Transform and Load.
 	- AWS Glue Job;
 	- AWS Athena;
 	- Google Colab;
-	
+
+## Step by step
+
 ### 1º Create the kinesis Data Stream
 	- This serves for colet the data from the sensors;
 	
